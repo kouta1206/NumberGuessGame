@@ -1,0 +1,2 @@
+# NumberGuessGame
+簡単な数あてゲームをjavascriptで実装してみました

@@ -30,7 +30,7 @@ body {
 
 .btn {
   cursor: pointer;
-  background: black;
+  background: red;
   width: 120px;
   text-align: center;
   color: #fff;
